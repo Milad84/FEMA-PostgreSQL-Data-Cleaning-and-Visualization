@@ -1,3 +1,4 @@
+```
 DROP TABLE IF EXISTS FEMA;
 CREATE TABLE FEMA (
 	--id SERIAL PRIMARY KEY , I will add it later
@@ -230,3 +231,4 @@ Select *
 From Pivot;												   
 												   
 select * from fema;
+```
