@@ -1,4 +1,5 @@
-```
+```sql
+
 DROP TABLE IF EXISTS FEMA;
 CREATE TABLE FEMA (
 	--id SERIAL PRIMARY KEY , I will add it later
